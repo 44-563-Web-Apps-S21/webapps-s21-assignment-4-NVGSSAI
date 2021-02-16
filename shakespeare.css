@@ -1,3 +1,15 @@
+.presents{
+    font-family:sans-serif;
+    color: brown;
+}
+.act-name{
+    font-family:sans-serif;
+    color:chocolate;
+}
+.act{
+    font-family:sans-serif;
+    color:cornflowerblue;  
+}
 .speech{
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;
@@ -16,7 +28,7 @@
 }
 .stage-direction:hover{
     background-color: lightyellow;
-    color:#123456;
+    color:#112233;
 }
 .CAMILLO{
     color: saddlebrown;
@@ -24,3 +36,21 @@
 .ARCHIDAMUS{
     color: salmon;
 }
+
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: auto;
+    margin: left;
+    text-align: center;
+    padding: 15px;
+    border-spacing: 5px;
+    background-color: whitesmoke;
+  }
+th{
+    background-color:lightsalmon;
+}
+td{
+    background-color: whitesmoke;
+}
+ 
